@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parstagram</string>
+    <string name="username_hint">Username</string>
+    <string name="email_hint">Email Address</string>
+    <string name="password_hint">Password</string>
+    <string name="login_hint">Login</string>
+    <string name="logout_hint">Logout</string>
+    <string name="register_hint">Register</string>
+    <string name="welcome">Welcome to Parstagram!</string>
+    <string name="submitBtnText">Submit</string>
+    <string name="submitCaptureText">Take a Picture!</string>
+    <string name="captionHint">Write a caption!</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
