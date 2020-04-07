@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name='Parstagram'
+rootProject.name='Game Recommender'
